@@ -2,7 +2,7 @@
   "name": "ASITHA-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
-  "main": "index.js",
+  "main": "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=Gyxg2azJ#egqxY4J4Ry-Zuku1cQWod_vdeER0zHy4xE0QAUGlj30",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name ASITHA-MD",
     "stop": "pm2 stop ASITHA-MD",
