@@ -58,6 +58,7 @@
     "adm-zip": "^0.5.16",
     "@dark-yasiya/news-scrap" : "latest",
     "sharp":"^0.32.6",
-    "acrcloud":"latest"
+    "acrcloud":"latest",
+    "xml2js":"0.6.2"
   }
 }
