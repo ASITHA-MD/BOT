@@ -3,7 +3,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env'
 function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
-module.exports = {
+module.exports = {𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=GuoQXRyT#fno0NGc8UYLP3nFdwSpXHlmCIQy22qTY4SEtMX6Y8uc
 
 SESSION_ID: process.env.SESSION_ID === undefined ? '' : process.env.SESSION_ID,
 PREFIX: process.env.PREFIX || '.' ,
