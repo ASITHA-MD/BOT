@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-<a href="https://github.com/ASITHA-MD/BOT">
+<a href="https://github.com/HASH/BOT">
     <img src=https://i.ibb.co/0GhKf6N/20241120-113020.jpg"  width="700px">
 </a>
 <hr>
